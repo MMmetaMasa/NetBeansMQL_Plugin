@@ -1,11 +1,10 @@
 /**
- * SimpleJavadoc comment for SimpleJavaExample class.
- * @author Simple Joe Smith
- */
-public class SimpleJavaExample {
+*   Javadoc compliant comment for MQL files 
+*   @author nic 
+*/
 
-    @Deprecated public String method (int param) {
-        return "SimpleString " + '-' + 1.2;
-    }// line comment
-
+rec def fn While(fn p: bool, fn s) {
+    if p then {
+        s; While(p, s)
+    } // single line comment
 }
