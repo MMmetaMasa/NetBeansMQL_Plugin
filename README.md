@@ -16,7 +16,7 @@ MQL Language support for NetBeans 7.2 - 7.4
 - MQL specific Syntax highlighting 
 - adjustable colors and fonts
 - MQL Templates
-- new mql-file integration
+- new mql-file integration in every type of project (/other/MQL file)
 
 
 #### Changelog
@@ -26,7 +26,7 @@ MQL Language support for NetBeans 7.2 - 7.4
 
 #### Planned features
 
-- intendation
+- indendation
 - brace matching & completion
 - error parsing
 - reformatting
