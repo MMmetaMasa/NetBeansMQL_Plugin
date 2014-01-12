@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.nice2cu.mql
+OpenIDE-Module-Layer: org/nice2cu/mql/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/nice2cu/mql/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
